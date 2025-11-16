@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow circular background with scalloped edges -->
+  <circle cx="100" cy="100" r="95" fill="#faea2c" stroke="#2d2d2d" stroke-width="2"/>
+  
+  <!-- White circular ring -->
+  <circle cx="100" cy="100" r="78" fill="none" stroke="#ffffff" stroke-width="8"/>
+  
+  <!-- Red oval background -->
+  <ellipse cx="100" cy="100" rx="75" ry="35" fill="#e41e26" stroke="#ffffff" stroke-width="3"/>
+  
+  <!-- Frutea text -->
+  <text x="100" y="115" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Frutea
+  </text>
+  
+  <!-- Green leaf accent -->
+  <path d="M 85 85 Q 82 78 88 75 Q 94 78 91 85 Z" fill="#39b54a"/>
+</svg>
+
